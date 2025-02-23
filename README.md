@@ -3,7 +3,7 @@ This project was developed as part of my final year project, focusing on detecti
 
 🚀 Coding used:
 1. Python3 - Used for the entire codebase
-2. Jupyter Notebook – For interactive code and data analysis
+2. Jupyter Notebook – For interactive code, data analysis and to run this projet
 3. NumPy – For numerical computations
 4. OpenCV – For image and video processing
 5. Scikit-Learn – For machine learning models
